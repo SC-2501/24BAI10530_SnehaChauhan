@@ -1,0 +1,9 @@
+shoW DAtaBAsEs;
+
+create database VITCampus1;
+
+drop database VITCampus1;
+
+use vitcampus;
+
+create table CSE;
